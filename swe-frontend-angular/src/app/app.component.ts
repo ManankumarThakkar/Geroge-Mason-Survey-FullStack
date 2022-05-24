@@ -1,4 +1,4 @@
-// Srujitha Reddy
+// Manankumar Thakkar
 import { Component } from '@angular/core';
 import { Student } from './student';
 import { AppService } from './app.service';
