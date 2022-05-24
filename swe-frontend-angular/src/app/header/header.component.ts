@@ -1,4 +1,4 @@
-//Gopan Doshi
+//Manankumar Thakkar
 import { Component, OnInit } from '@angular/core';
 
 @Component({
