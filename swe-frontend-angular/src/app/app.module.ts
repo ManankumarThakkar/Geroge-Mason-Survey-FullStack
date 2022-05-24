@@ -1,4 +1,4 @@
-// Srujitha Reddy
+// Manankumar Thakkar
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppService } from './app.service';
